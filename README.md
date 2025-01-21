@@ -253,6 +253,7 @@ Data Analysts, Data Scientists, Marketing Analysts.
 
  
 Additional Analytics Features
+
 5. Inferential Analytics
 •	Purpose: To make inferences about a population based on sample data.
 •	Focus: Making predictions or generalizations.
