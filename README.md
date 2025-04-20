@@ -10,58 +10,58 @@
 BI is a sophisticated process of transforming raw data into meaningful and insightful information to support strategic decision-making within an organization.
 
 ### BI Components
-1.	Data Sources:
-•	Internal Data: Data from within the organization, such as CRM systems, ERP systems, and financial databases.
-•	External Data: Data from external sources, such as market research, social media, and third-party data providers.
+1.	Data Sources:  
+•	Internal Data: Data from within the organization, such as CRM systems, ERP systems, and financial databases.  
+•	External Data: Data from external sources, such as market research, social media, and third-party data providers.  
 
-2. Data Integration:
-•	ETL (Extract, Transform, Load): The process of extracting data from various sources, transforming it into a suitable format, and loading it into a data warehouse.
-•	Data Pipelines: Automated workflows that move and transform data from source systems to the data warehouse.
+2. Data Integration:  
+•	ETL (Extract, Transform, Load): The process of extracting data from various sources, transforming it into a suitable format, and loading it into a data warehouse.  
+•	Data Pipelines: Automated workflows that move and transform data from source systems to the data warehouse.  
 
-3. Data Warehousing:
-•	Data Warehouse: A centralized repository that stores integrated data from multiple sources, optimized for querying and analysis.
-•	Data Marts: Subsets of the data warehouse tailored to specific business lines or departments.
+3. Data Warehousing:  
+•	Data Warehouse: A centralized repository that stores integrated data from multiple sources, optimized for querying and analysis.  
+•	Data Marts: Subsets of the data warehouse tailored to specific business lines or departments.  
 
-4. Data Modeling:
-•	Conceptual, Logical, and Physical Models: Models that define the structure, relationships, and storage of data in the data warehouse.
-•	Star Schema and Snowflake Schema: Common data modeling techniques used to organize and optimize data for querying.
+4. Data Modeling:  
+•	Conceptual, Logical, and Physical Models: Models that define the structure, relationships, and storage of data in the data warehouse.  
+•	Star Schema and Snowflake Schema: Common data modeling techniques used to organize and optimize data for querying.  
 
-5. Data Mining:
-•	Pattern Recognition: Identifying patterns and trends within large data sets using statistical and computational methods.
-•	Predictive Analytics: Using historical data to forecast future trends and outcomes.
+5. Data Mining:  
+•	Pattern Recognition: Identifying patterns and trends within large data sets using statistical and computational methods.  
+•	Predictive Analytics: Using historical data to forecast future trends and outcomes.  
 
-6. Online Analytical Processing (OLAP):
-•	OLAP Cubes: Multidimensional data structures that allow for complex queries and analysis.
-•	Drill-Down and Roll-Up: Techniques to navigate through different levels of data granularity.
+6. Online Analytical Processing (OLAP):  
+•	OLAP Cubes: Multidimensional data structures that allow for complex queries and analysis.  
+•	Drill-Down and Roll-Up: Techniques to navigate through different levels of data granularity.  
 
-7. Reporting and Querying:
-•	Standard Reports: Predefined reports that provide regular insights on key metrics.
-•	Ad-Hoc Queries: Custom queries created by users to explore specific data points.
+7. Reporting and Querying:  
+•	Standard Reports: Predefined reports that provide regular insights on key metrics.  
+•	Ad-Hoc Queries: Custom queries created by users to explore specific data points.  
 
-8. Dashboards and Visualizations:
-•	Interactive Dashboards: Visual interfaces that display real-time data and key performance indicators (KPIs).
-•	Visualization Tools: Software like Power BI, Tableau, and Looker that create visual representations of data.
+8. Dashboards and Visualizations:  
+•	Interactive Dashboards: Visual interfaces that display real-time data and key performance indicators (KPIs).  
+•	Visualization Tools: Software like Power BI, Tableau, and Looker that create visual representations of data.  
 
-9. Business Performance Management:
-•	KPIs and Metrics: Key performance indicators and metrics used to measure business success.
-•	Scorecards and Performance Monitoring: Tools to track and report on business performance.
+9. Business Performance Management:  
+•	KPIs and Metrics: Key performance indicators and metrics used to measure business success.  
+•	Scorecards and Performance Monitoring: Tools to track and report on business performance.  
 
-10. Data Governance and Security:
-•	Data Quality Management: Ensuring the accuracy, completeness, and reliability of data.
-•	Data Security: Protecting data from unauthorized access and breaches.
-•	Compliance: Adhering to legal and regulatory requirements like GDPR, HIPAA, etc.
+10. Data Governance and Security:  
+•	Data Quality Management: Ensuring the accuracy, completeness, and reliability of data.  
+•	Data Security: Protecting data from unauthorized access and breaches.  
+•	Compliance: Adhering to legal and regulatory requirements like GDPR, HIPAA, etc.  
 	
-11. Metadata Management:
-•	Metadata Repository: A database that stores information about data sources, definitions, and relationships.
-•	Data Dictionary: Documentation that provides details about data elements and their meanings.
+11. Metadata Management:  
+•	Metadata Repository: A database that stores information about data sources, definitions, and relationships.  
+•	Data Dictionary: Documentation that provides details about data elements and their meanings.  
 	
-12. User Training and Support:
-•	Training Programs: Educating users on how to use BI tools and interpret data.
-•	Support Services: Providing assistance and troubleshooting for BI users.
+12. User Training and Support:  
+•	Training Programs: Educating users on how to use BI tools and interpret data.  
+•	Support Services: Providing assistance and troubleshooting for BI users.  
 	
-13. Collaboration and Sharing:
-•	Collaborative Platforms: Tools that allow users to share reports, dashboards, and insights.
-•	Version Control: Ensuring that users access the most up-to-date and consistent information.
+13. Collaboration and Sharing:  
+•	Collaborative Platforms: Tools that allow users to share reports, dashboards, and insights.  
+•	Version Control: Ensuring that users access the most up-to-date and consistent information.  
 
 
 ### BI Tools
@@ -71,38 +71,38 @@ Power BI, Tableau, Looker, BusinessObjects.
 BI Analysts, Managers, Decision Makers.
 
 ### BI Types
-1. Traditional BI
-•	Descriptive Analytics: Focuses on summarizing historical data to understand what happened. It involves reporting, querying, and trend analysis.
-•	Key Tools: SQL-based databases, OLAP cubes, data warehouses.
+1. Traditional BI  
+•	Descriptive Analytics: Focuses on summarizing historical data to understand what happened. It involves reporting, querying, and trend analysis.  
+•	Key Tools: SQL-based databases, OLAP cubes, data warehouses.  
 
-2. Operational BI
-•	Real-Time Analytics: Provides near-instant access to data to support day-to-day operations. It focuses on monitoring current performance and activities.
-•	Use Cases: Call center performance dashboards, real-time stock level monitoring.
-•	Key Tools: Streaming data platforms, in-memory databases.
+2. Operational BI  
+•	Real-Time Analytics: Provides near-instant access to data to support day-to-day operations. It focuses on monitoring current performance and activities.  
+•	Use Cases: Call center performance dashboards, real-time stock level monitoring.  
+•	Key Tools: Streaming data platforms, in-memory databases.  
 
-3. Self-Service BI
-•	Empowerment: Allows non-technical users to create their own reports and visualizations without needing IT support.
-•	Key Features: Ad-hoc reporting, drag-and-drop interfaces, and user-friendly dashboards.
-•	Key Tools: Power BI, Tableau, Qlik Sense.
+3. Self-Service BI  
+•	Empowerment: Allows non-technical users to create their own reports and visualizations without needing IT support.  
+•	Key Features: Ad-hoc reporting, drag-and-drop interfaces, and user-friendly dashboards.  
+•	Key Tools: Power BI, Tableau, Qlik Sense.  
 
-4. Advanced & Predictive Analytics
-•	Predictive Modeling: Uses historical data to predict future outcomes. It involves statistical models and machine learning algorithms.
-•	Use Cases: Sales forecasts, customer churn predictions.
-•	Key Tools: R, Python, SAS, Apache Spark.
+4. Advanced & Predictive Analytics  
+•	Predictive Modeling: Uses historical data to predict future outcomes. It involves statistical models and machine learning algorithms.  
+•	Use Cases: Sales forecasts, customer churn predictions.  
+•	Key Tools: R, Python, SAS, Apache Spark.  
 
-5. Embedded BI
-•	Integration: Embeds BI capabilities directly into business applications to provide context-specific analytics.
-•	Use Cases: In-app analytics, embedded dashboards within CRM systems.
-•	Key Tools: API-based integration, custom BI widgets.
+5. Embedded BI  
+•	Integration: Embeds BI capabilities directly into business applications to provide context-specific analytics.  
+•	Use Cases: In-app analytics, embedded dashboards within CRM systems.  
+•	Key Tools: API-based integration, custom BI widgets.  
 
-6. Cloud BI
-•	Scalability: Utilizes cloud services to deliver BI capabilities, offering flexibility and on-demand scalability.
-•	Key Features: SaaS BI platforms, cloud-based data storage and processing.
-•	Key Tools: AWS QuickSight, Google Data Studio, Microsoft Azure Synapse.
+6. Cloud BI  
+•	Scalability: Utilizes cloud services to deliver BI capabilities, offering flexibility and on-demand scalability.  
+•	Key Features: SaaS BI platforms, cloud-based data storage and processing.  
+•	Key Tools: AWS QuickSight, Google Data Studio, Microsoft Azure Synapse.  
 
-7. Mobile BI
-•	Accessibility: Provides BI insights on mobile devices, enabling on-the-go access to data.
-•	Use Cases: Mobile dashboards, alerts, and notifications
+7. Mobile BI  
+•	Accessibility: Provides BI insights on mobile devices, enabling on-the-go access to data.  
+•	Use Cases: Mobile dashboards, alerts, and notifications  
 
 
 ### BI Techniques
@@ -552,10 +552,10 @@ Data visualization techniques are crucial for making data more understandable an
 18. Creating Labels<br>
 •	Purpose: Display text data frequency.<br>
 •	When to Use:  
-		&nbsp;&nbsp;1. Product Packaging – Helps businesses brand their items with logos, ingredients, and instructions.  
-		&nbsp;&nbsp;2. Mailing & Shipping – Ensures clear addresses and tracking information.  
-		&nbsp;&nbsp;3. Inventory Management – Streamlines stock tracking with barcodes and item descriptions.  
-		&nbsp;&nbsp;4. Event Planning – Creates name tags, seating arrangements, and promotional materials.  
+		&nbsp;&nbsp;&nbsp;&nbsp;1. Product Packaging – Helps businesses brand their items with logos, ingredients, and instructions.  
+		&nbsp;&nbsp;&nbsp;&nbsp;2. Mailing & Shipping – Ensures clear addresses and tracking information.  
+		&nbsp;&nbsp;&nbsp;&nbsp;3. Inventory Management – Streamlines stock tracking with barcodes and item descriptions.  
+		&nbsp;&nbsp;&nbsp;&nbsp;4. Event Planning – Creates name tags, seating arrangements, and promotional materials.  
 •	Example: <a href="./SAP Crystal Reports/Epicor P21 - Labels report.jpg">Epicor P21 Labels</a> using <a href="./SAP Crystal Reports/rptP21Label.rpt"> SAP Crystal Reports 2025 </a>
 
 
