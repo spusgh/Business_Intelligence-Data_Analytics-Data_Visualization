@@ -549,13 +549,13 @@ Data visualization techniques are crucial for making data more understandable an
 •	When to Use: For visualizing the importance or frequency of words.
 •	Example
 
-1	8. Creating Labels<br>
+18. Creating Labels<br>
 •	Purpose: Display text data frequency.<br>
-•	When to Use: 
-		1. Product Packaging – Helps businesses brand their items with logos, ingredients, and instructions.
-		2. Mailing & Shipping – Ensures clear addresses and tracking information.
-		3. Inventory Management – Streamlines stock tracking with barcodes and item descriptions.
-		4. Event Planning – Creates name tags, seating arrangements, and promotional materials.<br>
+•	When to Use:  
+		1. Product Packaging – Helps businesses brand their items with logos, ingredients, and instructions.  
+		2. Mailing & Shipping – Ensures clear addresses and tracking information.  
+		3. Inventory Management – Streamlines stock tracking with barcodes and item descriptions.  
+		4. Event Planning – Creates name tags, seating arrangements, and promotional materials.  
 •	Example: <a href="./SAP Crystal Reports/Epicor P21 - Labels report.jpg">Epicor P21 Labels</a> using <a href="./SAP Crystal Reports/rptP21Label.rpt"> SAP Crystal Reports 2025 </a>
 
 
