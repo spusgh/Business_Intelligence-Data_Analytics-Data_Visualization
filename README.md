@@ -1,11 +1,14 @@
 
 
+<details><summary>BI DA DV</summary>
 
 # Business Intelligence, Data Analytics, Data visualization 
 
 <a type="application/pdf" href="https://github.com/spusgh/Business_Intelligence-Data_Analytics-Data_Visualization/tree/main/Business%20Intelligence%20Data%20Analytics%20Data%20visualization.pdf">Comparison </a>
 
+</details>
 
+<details><summary>BI</summary>
 ## Business Intelligence (BI) 
 BI is a sophisticated process of transforming raw data into meaningful and insightful information to support strategic decision-making within an organization.
 
@@ -172,8 +175,8 @@ Business Intelligence (BI) techniques are essential for transforming data into a
 •	Components: BI portals, shared dashboards, report distribution.  
 •	Techniques: Collaborative BI, report sharing, data annotation.  
 
-
-
+</details>
+<details><summary>Data Analytics</summary>
 
 ## Data Analytics
 Data analytics is the science of examining raw data to uncover patterns, draw conclusions, and support decision-making. It encompasses various techniques and processes to transform data into meaningful insights.
@@ -320,7 +323,8 @@ Data analysis involves examining, cleaning, transforming, and interpreting datas
 •	Techniques: Z-score, DBSCAN, Isolation Forest, and time-series-based anomaly detection.
 
 
-
+</details>
+<details><summary>DV</summary>
 
 ## Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, maps, and dashboards, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
@@ -558,7 +562,7 @@ Data visualization techniques are crucial for making data more understandable an
 		&nbsp;&nbsp;&nbsp;&nbsp;4. Event Planning – Creates name tags, seating arrangements, and promotional materials.  
 •	Example: <a href="./SAP Crystal Reports/Epicor P21 - Labels report.jpg">Epicor P21 Labels</a> using <a href="./SAP Crystal Reports/rptP21Label.rpt"> SAP Crystal Reports 2025 </a>
 
-
+</details>
 
 
  
