@@ -389,169 +389,167 @@ Tableau, Power BI, D3.js, Matplotlib, Adobe Illustrator.
 ### Data Visualization Users
 Data Journalists, BI Analysts, UX Designers, Executives.
 
-### Data Visualization Types
-1. Bar Charts and Column Charts  
-•	Use: Compare quantities across categories.  
-•	Example: Sales performance by region or product.  
 
-2. Line Charts  
-•	Use: Display trends over time.  
-•	Example: Monthly revenue growth, stock prices.  
-
-3. Pie Charts and Donut Charts  
-•	Use: Show parts of a whole.  
-•	Example: Market share distribution, budget allocation.  
-
-4. Scatter Plots  
-•	Use: Show relationships between two variables.  
-•	Example: Correlation between advertising spend and sales.  
-
-5. Histograms  
-•	Use: Display frequency distribution of a dataset.  
-•	Example: Distribution of test scores, age groups.  
-
-6. Heatmaps  
-•	Use: Display data intensity or frequency using color.  
-•	Example: Website click maps, correlation matrices.  
-
-7. Treemaps  
-•	Use: Show hierarchical data as nested rectangles.  
-•	Example: Portfolio allocation, organizational structure.  
-
-8. Bubble Charts  
-•	Use: Show three variables with x, y coordinates and bubble size.  
-•	Example: Revenue (x), profit (y), and market size (bubble size).  
-
-9. Area Charts  
-•	Use: Show cumulative totals over time.  
-•	Example: Accumulated revenue over the years.  
-
-10. Box Plots (Box-and-Whisker Plots)  
-•	Use: Display data distribution summaries.  
-•	Example: Test scores distribution, income ranges.  
-
-11. Geospatial Maps  
-•	Use: Visualize geographical data.  
-•	Example: Sales by state, population density maps.  
-
-12. Gantt Charts  
-•	Use: Display project schedules.  
-•	Example: Project timelines, task durations.  
-
-13. Waterfall Charts  
-•	Use: Show cumulative effect of sequential positive and negative values.  
-•	Example: Financial statements, profit analysis.  
-
-14. Network Diagrams  
-•	Use: Visualize relationships between nodes.  
-•	Example: Social network connections, IT network topology.  
-
-15. Word Clouds  
-•	Use: Display text data frequency.  
-•	Example: Keywords in survey responses, website tags.  
-
-16. Infographics  
-•	Use: Combine data visuals and narrative elements.  
-•	Example: Marketing materials, educational content.  
-
-
-### Data Visualization Techniques
+### Data Visualization Types-Techniques
 Data visualization techniques are crucial for making data more understandable and actionable. Here are some popular techniques used in data visualization:
 
-1. Bar Chart  
-•	Purpose: Compare quantities across categories.  
-•	When to Use: For comparing discrete data or display the frequency of categorical data.  
-•	Example: Sales performance by region.  
+1.  3D Surface Plots <br/>
+	Example:
+	1. <a href="./JSLibs/3DRiskLandscape.png" >Risk landscape visualization</a> using Javascript Libraries
 
-2. Line Chart  
-•	Purpose: Show trends over time.  
-•	When to Use: For illustrating data points connected by straight lines to show changes in value.  
-•	Example: Stock prices over a year.  
-
-3. Pie Chart  
-•	Purpose: Display parts of a whole.  
-•	When to Use: For showing the proportion of categories within a whole dataset.  
-•	Example: Market share distribution.  
-
-4. Scatter Plot  
-•	Purpose: Show relationships between variables.  
-•	When to Use: For identifying correlations between two variables.  
-•	Example: Relationship between advertising spend and sales revenue.  
-
-5. Histogram  
-•	Purpose: Display frequency distribution.  
-•	When to Use: For representing the distribution of a dataset.  
-•	Example: Age distribution of a population.  
-
-6. Heatmap  
-•	Purpose: Represent data intensity using color.  
-•	When to Use: For visualizing matrix data and showing the magnitude of values.  
-•	Example: Website click maps.  
-
-7. Treemap  
-•	Purpose: Show hierarchical data.  
-•	When to Use: For visual segmentation and comparison of hierarchical datasets.  
-•	Example: Portfolio allocation.  
-
-8. Bubble Chart  
-•	Purpose: Show three variables.  
-•	When to Use: For visualizing data with two quantitative variables and a third variable represented by bubble size.  
-•	Example: GDP (x), population (y), and country size (bubble).  
-
-9. Gantt Chart  
-•	Purpose: Display project timelines.  
-•	When to Use: For managing and scheduling project tasks.  
-•	Example: Project management plans.  
-
-10. Waterfall Chart  
-•	Purpose: Display cumulative value changes.  
-•	When to Use: For understanding the sequential impact of transactions on a given value.  
-•	Example: Financial statements analysis.  
-
-11. Violin Plot  
-•	Purpose: Show the distribution and density of a dataset.  
-•	When to Use: For comparing the distribution of multiple groups.  
-•	Example: Distribution of test scores between classes.  
-
-12. Box Plot  
-•	Purpose: Show data distribution summaries.  
-•	When to Use: For displaying the spread and skewness of data.  
-•	Example: Examining a dataset's quartiles.  
-
-13. Area Chart  
+2. Area Chart  
 •	Purpose: Show cumulative totals.  
 •	When to Use: For visualizing trends over time with stacked data.  
-•	Example: Accumulated revenue over the years.  
+•	Example: 
+	1. <a href="./JSLibs/LoanOriginationTrends.png">Loan Origination Trends</a> using Javascript Libraries
 
-14. Geospatial Map  
+3. Bar Chart  
+•	Purpose: Compare quantities across categories.  
+•	When to Use: For comparing discrete data or display the frequency of categorical data.  
+•	Example:
+	1. <a href="./JSLibs/LoanStatusByState.png">Loan Status by State</a> using Javascript Libraries
+
+4. Box Plot  
+•	Purpose: Show data distribution summaries.  
+•	When to Use: For displaying the spread and skewness of data.  
+•	Example: 
+	1. <a href="./JSLibs/IRD.png">Interest Rate Distribution By Product</a> using Javascript Libraries
+
+5. Bubble Chart  
+•	Purpose: Show three variables.  
+•	When to Use: For visualizing data with two quantitative variables and a third variable represented by bubble size.  
+•	Example:
+	1. <a href="./JSLibs/PortfolioBubbleAnalysis.png">Portfolio Bubble Analysis</a> using Javascript Libraries
+
+6.	Candlestick Charts<br/>
+•	Example:
+	1. <a href="./JSLibs/IROHLC.png" title="InterestRateOHLC">Interest rate OHLC analysis</a> using Javascript Libraries <br/>
+
+7.	Chord Diagram  
+•	Purpose: Visualize relationships between categories.  
+•	When to Use: For representing interrelationships in complex datasets.  
+•	Example: 
+	1. <a href="./JSLibs/CustomerOfficerflow.png">Customer Officer flow</a> using Javascript Libraries
+
+8.Column Charts  <br/>
+•	Example:
+	1. <a href="./JSLibs/MonthlyApplicationsVolume.png" >Monthly application volume</a> using Javascript Libraries <br/>
+
+9.	Donut Charts<br/>
+•	Example:
+	1. <a href="./JSLibs/RiskClassifications.png" >Risk classifications </a> using Javascript Libraries <br/>
+
+10.	Funnel Charts<br/>
+•	Example:
+	1. <a href="./JSLibs/ApplicationConversionFunnel.png" >Application conversion funnel</a> using Javascript Libraries <br/>
+
+11.	Gantt Chart  
+•	Purpose: Display project timelines.  
+•	When to Use: For managing and scheduling project tasks.  
+•	Example: 
+	1. <a href="./JSLibs/LoanProcessingTimeLine.png">Loan Processing Time Line</a> using Javascript Libraries
+	
+12.	Gauge Charts <br/>
+•	Example: <a href="./JSLibs/PortfolioHealthScore.png" >Portfolio health score</a> using Javascript Libraries
+
+13.	Geospatial Map  
 •	Purpose: Visualize geographical data.  
 •	When to Use: For connecting data and geographical locations.  
 •	Example: Population density maps.  
+	
+14.	Heatmap  
+•	Purpose: Represent data intensity using color.  
+•	When to Use: For visualizing matrix data and showing the magnitude of values.  
+•	Example: 
+	1. <a href="./JSLibs/RiskAssessmentHeatMap.png">Risk Assessment Matrix (LTV vs DTI)</a> using Javascript Libraries
 
-15. Chord Diagram  
-•	Purpose: Visualize relationships between categories.  
-•	When to Use: For representing interrelationships in complex datasets.  
-•	Example: Trade relationships between countries.  
+15.	Histogram  
+•	Purpose: Display frequency distribution.  
+•	When to Use: For representing the distribution of a dataset.  
+•	Example: 
+	1. <a href="./JSLibs/LoanAmountDistribution.png">Loan Amount Distribution</a> using Javascript Libraries
 
-16. Sankey Diagram  
-•	Purpose: Show flow and volume.  
-•	When to Use: For visualizing flow from one set of values to another.  
-•	Example: Energy distribution flows.  
+16.	Infographics  
+•	Use: Combine data visuals and narrative elements.  
+•	Example: Marketing materials, educational content.
+	1. <a href="./JSLibs/KeyPerformanceInfographics.png">Key Performance Statistics</a> using Javascript Libraries
 
-17. Word Clouds  
-•	Purpose: Display text data frequency.  
-•	When to Use: For visualizing the importance or frequency of words.  
-•	Example  
-
-18. Creating Labels  
+17.	Labels  
 •	Purpose: Display text data frequency.  
 •	When to Use:  
 		&nbsp;&nbsp;&nbsp;&nbsp;1. Product Packaging – Helps businesses brand their items with logos, ingredients, and instructions.  
 		&nbsp;&nbsp;&nbsp;&nbsp;2. Mailing & Shipping – Ensures clear addresses and tracking information.  
 		&nbsp;&nbsp;&nbsp;&nbsp;3. Inventory Management – Streamlines stock tracking with barcodes and item descriptions.  
 		&nbsp;&nbsp;&nbsp;&nbsp;4. Event Planning – Creates name tags, seating arrangements, and promotional materials.  
-•	Example: <a href="./SAP Crystal Reports/Epicor P21 - Labels report.jpg">Epicor P21 Labels</a> using <a href="./SAP Crystal Reports/rptP21Label.rpt"> SAP Crystal Reports 2025 </a>
+•	Example: 
+	1. <a href="./SAP Crystal Reports/Epicor P21 - Labels report.jpg">Epicor P21 Labels</a> using <a href="./SAP Crystal Reports/rptP21Label.rpt"> SAP Crystal Reports 2025 </a>
+	2. <a href="./JSLibs/DynamicDataLabels.png" >Dynamic Data Labels</a> using Javascript Libraries
+
+18.Line Chart  
+•	Purpose: Show trends over time.  
+•	When to Use: For illustrating data points connected by straight lines to show changes in value.  
+•	Example:
+	1. <a href="./JSLibs/InterestRatesTrends.png">Interest Rates Trends</a> using Javascript Libraries
+	
+19.	Network Diagrams  
+•	Use: Visualize relationships between nodes.  
+•	Example: Social network connections, IT network topology.  
+	1. <a href="./JSLibs/ServicerNetwork.png">Servicer Network Relationships</a> using Javascript Libraries
+
+20.	Parallel Coordinates<br/>
+ •	Example:
+		1. <a href="./JSLibs/MultiDimRiskAnalysis.png" >Multi-dimensional risk analysis</a>using Javascript Libraries <br/>
+
+21.	Pie Chart  
+•	Purpose: Display parts of a whole.  
+•	When to Use: For showing the proportion of categories within a whole dataset.  
+•	Example:
+	1. <a href="./JSLibs/LoanTypesDistribution.png">Loan Types Distribution</a> using Javascript Libraries
+
+22.	Polar Area Charts <br/>
+•	Example:
+		1. <a href="./JSLibs/SeasonalApplicationTrends.png" > Seasonal application trends </a> using Javascript Libraries<br/>
+
+23.	Radar Charts <br/>
+ •	Example:
+		1. <a href="./JSLibs/LoanOfficerPerformance.png" >Loan officer performance metrics</a>  using Javascript Libraries<br/>
+
+24.	Sankey Diagram  
+•	Purpose: Show flow and volume.  
+•	When to Use: For visualizing flow from one set of values to another.  
+•	Example:
+	1. <a href="./JSLibs/AppProcessFlow.png">App Process Flow</a> using Javascript Libraries
+
+25.	Scatter Plot  
+•	Purpose: Show relationships between variables.  
+•	When to Use: For identifying correlations between two variables.  
+•	Example: 
+	1. <a href="./JSLibs/CSvsLA.png">Credit Score vs Loan Amount</a> using Javascript Libraries
+
+26.	Sunburst Charts - Hierarchical portfolio breakdown<br/>
+
+27.	Treemap  
+•	Purpose: Show hierarchical data.  
+•	When to Use: For visual segmentation and comparison of hierarchical datasets.  
+•	Example: 
+	1. <a href="./JSLibs/PortfolioTreemap.png">Portfolio Treemap</a> using Javascript Libraries
+
+28.	Violin Plot  
+•	Purpose: Show the distribution and density of a dataset.  
+•	When to Use: For comparing the distribution of multiple groups.  
+•	Example: 
+	1. <a href="./JSLibs/PaymentDistribution.png">Payment Distribution Patterns</a> using Javascript Libraries
+
+29.	Waterfall Chart  
+•	Purpose: Display cumulative value changes.  
+•	When to Use: For understanding the sequential impact of transactions on a given value.  
+•	Example: 
+	1. <a href="./JSLibs/RevenueWaterfall.png">Revenue Breakdown Analysis</a> using Javascript Libraries
+
+30.	Word Clouds  
+•	Purpose: Display text data frequency.  
+•	When to Use: For visualizing the importance or frequency of words.  
+•	Example  
+	1. <a href="./JSLibs/CommonDenialReasons.png">Common Denial Reasons</a> using Javascript Libraries
 
 
-
- 
