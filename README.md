@@ -450,7 +450,8 @@ Data visualization techniques are crucial for making data more understandable an
 	1. <a href="./JSLibs/LoanProcessingTimeLine.png">Loan Processing Time Line</a> using Javascript Libraries
 	
 12.	Gauge Charts <br/>
-•	Example: <a href="./JSLibs/PortfolioHealthScore.png" >Portfolio health score</a> using Javascript Libraries
+•	Example: 
+	1. <a href="./JSLibs/PortfolioHealthScore.png" >Portfolio health score</a> using Javascript Libraries
 
 13.	Geospatial Map  
 •	Purpose: Visualize geographical data.  
@@ -467,7 +468,7 @@ Data visualization techniques are crucial for making data more understandable an
 •	Purpose: Display frequency distribution.  
 •	When to Use: For representing the distribution of a dataset.  
 •	Example: 
-	1. <a href="./JSLibs/LoanAmountDistribution.png">Loan Amount Distribution</a> using Javascript Libraries
+	1. <a href="./JSLibs/LAD.png">Loan Amount Distribution</a> using Javascript Libraries
 
 16.	Infographics  
 •	Use: Combine data visuals and narrative elements.  
